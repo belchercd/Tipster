@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Tipster*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipster** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Camryn Belcher**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Adding a JPEG picture of money to enhance the visuals.
+- [ ] Changed the calculating factors to white font and keeping the final result to a bold black font.
+- [ ] Editing the background to a green color. 
+- [ ] Adding animation
 
 ## Video Walkthrough
 
@@ -34,17 +37,17 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- [ ] Creating the animation of the bill section was a challenging task to complete. 
 
 ## Credits
 
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
+- [ ] shutterstock images 
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Camryn Belcher]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
