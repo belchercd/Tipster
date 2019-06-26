@@ -10,22 +10,21 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 
 * [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
+* [X] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] Adding a JPEG picture of money to enhance the visuals.
-- [ ] Changed the calculating factors to white font and keeping the final result to a bold black font.
-- [ ] Editing the background to a green color. 
-- [ ] Adding animation
+- [X] Adding a JPEG picture of money to enhance the visuals.
+- [X] Changed the calculating factors to white font and keeping the final result to a bold black font.
+- [X] Editing the background to a green color. 
 
 ## Video Walkthrough
 
@@ -37,11 +36,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-- [ ] Creating the animation of the bill section was a challenging task to complete. 
+- Creating the animation of the bill section was a challenging task to complete. Mainly because it barely understand the how aspect of the features. 
 
 ## Credits
 
-- [ ] shutterstock images 
+- shutterstock images 
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
